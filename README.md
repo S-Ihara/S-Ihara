@@ -1,16 +1,15 @@
 ### Hi there 👋
 
-<!--
-**S-Ihara/S-Ihara** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-- badges -->
+[![https://s-ihara.github.io/resume](https://img.shields.io/static/v1?label=&message=MyHomePage&color=green&style=flat&logo=GithubPages)](https://s-ihara.github.io)
+![Twitter_shields](https://img.shields.io/twitter/follow/S_Ihara77?style=social)
+![](https://komarev.com/ghpvc/?username=S-ihara) <!-- profile counter -->
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<!-- activity graphs -->
+![profile_detailed](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=s-ihara&theme=tokyonight&count_private=true)
+
+<p align="left"> 
+  <img alt="Top Languages" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=s-ihara&layout=compact&count_private=true&show_icons=true&theme=tokyonight" />
+  <img alt="github stats" height="200px" src="https://github-readme-stats.vercel.app/api?username=s-ihara&count_private=true&show_icons=true&theme=tokyonight" />
+</p>
