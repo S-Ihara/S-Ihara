@@ -2,7 +2,7 @@
 
 <!-- badges -->
 [![https://s-ihara.github.io/resume](https://img.shields.io/static/v1?label=&message=MyHomePage&color=green&style=flat&logo=GithubPages)](https://s-ihara.github.io)
-![Twitter_shields](https://img.shields.io/twitter/follow/S_Ihara77?style=social)
+[![Twitter_shields](https://img.shields.io/twitter/follow/S_Ihara77?style=social)](https://twitter.com/S_Ihara77)
 ![](https://komarev.com/ghpvc/?username=S-ihara) <!-- profile counter -->
 
 
